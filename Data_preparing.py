@@ -69,7 +69,6 @@ ax.legend()
 ax.grid(axis="y", alpha=0.3)
 
 plt.tight_layout()
-plt.savefig("class_distribution.png", dpi=300)
 plt.show()
 
 # --- In bảng LaTeX từ số liệu thật ---

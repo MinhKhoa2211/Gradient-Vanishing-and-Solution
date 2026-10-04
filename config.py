@@ -283,7 +283,7 @@ EXPERIMENTS = {
     # Add Batch Normalization.
     # --------------------------------------------------------
     "batchnorm": {
-        "name": "Basline + BatchNorm",
+        "name": "Baseline + BatchNorm",
         "activations": SIGMOID_ACTIVATIONS,
         "initializer": "random_normal",
         "use_batchnorm": True,
